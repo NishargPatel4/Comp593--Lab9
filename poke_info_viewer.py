@@ -6,6 +6,10 @@ Description:
 
 Usage:
   python poke_info_viewer.py
+
+Group:- Mahenur Master, Nisharg Patel, Sneha Malhotra, Siddharth Patel
+Author:- Nisharg Patel
+Student id:- 10324039
 """
 from tkinter import *
 from tkinter import ttk

@@ -1,3 +1,6 @@
+""""Group:- Mahenur Master, Nisharg Patel, Sneha Malhotra, Siddharth Patel
+Author:- Nisharg Patel
+Student id:- 10324039"""
 import requests
 
 # Base URL for accessing Pokémon data
